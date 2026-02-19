@@ -34,10 +34,6 @@ travelling/
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here after uploading them)
-
 ---
 
 ## ⚙️ How to Run the Project
